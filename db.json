@@ -11,7 +11,7 @@
       {
         "id": "2",
         "product-name": "Apple Smart watch series 8",
-        "product-price": "",
+        "product-price": "$399",
         "category": "Electronic",
         "description": "",
         "image": "apple watch series 8.jpeg"
@@ -19,7 +19,7 @@
       {
         "id": "3",
         "product-name": "Sony Extra Bass Portable bluetooth speaker",
-        "product-price": "",
+        "product-price": "$58.00 ",
         "category": "Electronic",
         "description": "",
         "image": "Sony extra bass bt.jpg"
@@ -27,7 +27,7 @@
       {
         "id": "4",
         "product-name": "Long sleeve Shirt",
-        "product-price": "",
+        "product-price": "$25",
         "category": "Clothing",
         "description": "",
         "image": "longsleeveshirt.jpeg"
@@ -35,7 +35,7 @@
       {
         "id": "5",
         "product-name": "Rebune Water dispenser",
-        "product-price": "",
+        "product-price": "$60",
         "category": "Appliances",
         "description": "",
         "image": "Rebune-Water-Dispenser-RE-8-018_Water-Dispensers_31990_1.jpeg"
@@ -43,7 +43,7 @@
       {
         "id": "6",
         "product-name": "Betalife Ultra Comfy Memory Foam Mattress",
-        "product-price": "",
+        "product-price": "$100",
         "category": "Home Furniture",
         "description": "",
         "image": "21861_betalife_ultra_comfort_memory_foam_mattress_-_king_single_2_.jpeg"
@@ -51,7 +51,7 @@
       {
         "id": "7",
         "product-name": "Canon EOS mirrorless camera",
-        "product-price": "",
+        "product-price": "$200",
         "category": "Electronic",
         "description": "",
         "image": "canon_eos_r7_mirrorless.jpg"
@@ -59,7 +59,7 @@
       {
         "id": "8",
         "product-name": "Deliya Hair Blow Dryer",
-        "product-price": "",
+        "product-price": "$150",
         "category": "Electronic",
         "description": "",
         "image": "Deliya  Hair Blow Dryer.jpg"
@@ -67,7 +67,7 @@
       {
         "id": "9",
         "product-name": "25 Litres Microwave",
-        "product-price": "",
+        "product-price": "$100",
         "category": "Electronic",
         "description": "",
         "image": "25 litres microwave.jpg"
@@ -75,7 +75,7 @@
       {
         "id": "10",
         "product-name": "Oster 800-Watt Power Blender",
-        "product-price": "",
+        "product-price": "$90",
         "category": "Electronic",
         "description": "",
         "image": "DC_42622_Oster_2022_Innovation_PowerBlender_.jpeg"
@@ -83,7 +83,7 @@
       {
         "id": "11",
         "product-name": "Huawei 512GB Micro SD Card",
-        "product-price": "",
+        "product-price": "$25",
         "category": "Accessories",
         "description": "",
         "image": "Huawei 512GB Micro SD Card.jpg"
