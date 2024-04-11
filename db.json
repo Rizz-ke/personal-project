@@ -12,114 +12,114 @@
         "id": "2",
         "product-name": "Apple Smart watch series 8",
         "product-price": "",
-        "category": 45,
-        "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+        "category": "Electronic",
+        "description": "",
         "image": "apple watch series 8.jpeg"
       },
       {
         "id": "3",
         "product-name": "Sony Extra Bass Portable bluetooth speaker",
         "product-price": "",
-        "category": 31,
-        "description": "An inventor comes up with a time machine, but must prevent its abuse at the hands of an evil C.E.O.",
+        "category": "Electronic",
+        "description": "",
         "image": "Sony extra bass bt.jpg"
       },
       {
         "id": "4",
         "product-name": "Long sleeve Shirt",
         "product-price": "",
-        "category": 31,
-        "description": "A young man meets a farm girl who is actually a witch.",
+        "category": "Clothing",
+        "description": "",
         "image": "longsleeveshirt.jpeg"
       },
       {
         "id": "5",
         "product-name": "Rebune Water dispenser",
-        "product-price": "03:30PM",
-        "category": 45,
-        "description": "The Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.",
+        "product-price": "",
+        "category": "Appliances",
+        "description": "",
         "image": "Rebune-Water-Dispenser-RE-8-018_Water-Dispensers_31990_1.jpeg"
       },
       {
         "id": "6",
         "product-name": "Betalife Ultra Comfy Memory Foam Mattress",
-        "product-price": "10:30PM",
-        "category": 16,
-        "description": "A young man is transformed into a hideous 'moon beast' due to a meteor fragment lodged in his body.",
+        "product-price": "",
+        "category": "Home Furniture",
+        "description": "",
         "image": "21861_betalife_ultra_comfort_memory_foam_mattress_-_king_single_2_.jpeg"
       },
       {
         "id": "7",
         "product-name": "Canon EOS mirrorless camera",
-        "product-price": "07:30PM",
-        "category": 22,
-        "description": "A woman seeks revenge on her former lover, who owns a skydiving business.",
+        "product-price": "",
+        "category": "Electronic",
+        "description": "",
         "image": "canon_eos_r7_mirrorless.jpg"
       },
       {
         "id": "8",
         "product-name": "Deliya Hair Blow Dryer",
-        "product-price": "08:30PM",
-        "category": 32,
-        "description": "On an isolated island, a small group of people are terrorized by giant voracious shrews in the midst of a hurricane.",
+        "product-price": "",
+        "category": "Electronic",
+        "description": "",
         "image": "Deliya  Hair Blow Dryer.jpg"
       },
       {
         "id": "9",
         "product-name": "25 Litres Microwave",
-        "product-price": "07:30PM",
-        "category": 22,
-        "description": "A saboteur posing as a scientist strives to destroy the world's first space station.",
+        "product-price": "",
+        "category": "Electronic",
+        "description": "",
         "image": "25 litres microwave.jpg"
       },
       {
         "id": "10",
         "product-name": "Oster 800-Watt Power Blender",
-        "product-price": "10:00PM",
-        "category": 44,
-        "description": "Giant spiders from another dimension invade Wisconsin.",
+        "product-price": "",
+        "category": "Electronic",
+        "description": "",
         "image": "DC_42622_Oster_2022_Innovation_PowerBlender_.jpeg"
       },
       {
         "id": "11",
         "product-name": "Huawei 512GB Micro SD Card",
-        "product-price": "06:00PM",
-        "category": 12,
-        "description": "A group of swingin' teens take time out from having fun in the sun to try to foil a group of crooks searching for a stolen scroll.",
+        "product-price": "",
+        "category": "Accessories",
+        "description": "",
         "image": "Huawei 512GB Micro SD Card.jpg"
       },
       {
         "id": "12",
         "product-name": "Huawei Wireless Mouse GT Specifications",
-        "product-price": "07:00PM",
-        "category": 20,
-        "description": "A series of murders in Michigan lead an American secret agent to Amsterdam, where he uncovers a plot to imperil the world with a potent new drug.",
+        "product-price": "",
+        "category": "Electronic",
+        "description": "",
         "image": "Huawei Wireless Mouse GT Specifications.jpg",
         "showing_id": "12"
       },
       {
         "id": "13",
         "product-name": "Samsung Galaxy S23",
-        "product-price": "09:00PM",
-        "category": 31,
-        "description": "A stock car driver goes undercover as the wheel man for a motorcycle gang.",
+        "product-price": "",
+        "category": "Accessories",
+        "description": "",
         "image": "Samsung Galaxy S23 .jpeg"
       },
       {
         "id": "14",
         "product-name": "Lenovo LP3 Pro Ear Buds",
-        "product-price": "08:00PM",
-        "category": 40,
-        "description": "International man of mystery Diabolik and his lover pull off heist after heist, all while European cops led by Inspector Ginko and envious mobsters led by Ralph Valmont are closing in on them.",
+        "product-price": "",
+        "category": "Accessories",
+        "description": "",
         "image": "Lenovo-LP3-Wireless-Ear-Buds.jpg"
       },
       {
         "id": "15",
         "product-name": "Baby Carrier",
-        "product-price": "04:45PM",
-        "category": 33,
-        "description": "Delinquent teen-agers ingest a substance and grow thirty feet tall, then proceed to take over a small town.",
-        "image": "https://www.gstatic.com/tv/thumb/v22vodart/37991/p37991_v_v8_aa.jpg"
+        "product-price": "",
+        "category": "Baby Products",
+        "description": "",
+        "image": "Baby carrier.jpg"
       }
     ]
   }
