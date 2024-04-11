@@ -120,6 +120,15 @@
         "category": "Baby Products",
         "description": "Purchase the comfy and quality baby carrier for your baby,carry your baby in style",
         "image": "Baby carrier.jpg"
-      }
+      },
+      
+      {"id": "15",
+      "product-name": "Baby Carrier",
+      "product-price": "$15",
+      "category": "Baby Products",
+      "description": "Purchase the comfy and quality baby carrier for your baby,carry your baby in style",
+      "image": "Baby carrier.jpg"
+    }
+
     ]
   }

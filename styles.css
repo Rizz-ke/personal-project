@@ -84,8 +84,13 @@
   
   .navigation img.logo {
     width: 120px;
-    height: auto
+    height: auto;
+    transition:transform 0.3s ease;
 
+  }
+
+  .navigation img.logo:hover {
+    transform: scale(1.1);
   }
   
   .navigation a {
@@ -161,7 +166,7 @@
 }
 
 .contacts {
-    background-color: #f9f9f9;
+    background-color:burlywood;
     padding:100px 50px;
     margin: auto;
     margin-top: 200px;
