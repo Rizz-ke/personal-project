@@ -39,6 +39,24 @@ function renderProducts() {
             // Handle errors gracefully
         });
 }
+const navigationLinks = document.querySelectorAll('.navigation a');
+navigationLinks.forEach(link => {
+    link.addEventListener('click', function(event) {
+        const targetSectionId = this.getAttribute('href').slice(1); // Get the ID of the target section
+        const targetSection = document.getElementById(targetSectionId); // Get the target section element
+
+        // Hide all sections
+        document.querySelectorAll('section').forEach(section => {
+            section.style.display = 'none';
+        });
+
+        // Show only the target section
+        targetSection.style.display = 'block';
+
+        event.preventDefault(); // Prevent the default behavior of the link
+    });
+});
+
 
 // Call the function to render the products when the DOM content is loaded
 document.addEventListener('DOMContentLoaded', renderProducts);

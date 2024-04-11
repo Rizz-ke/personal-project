@@ -179,4 +179,12 @@
     margin-bottom: 10px;
 }
 
+section {
+    display: none; /* Hide all sections initially */
+}
+
+#Home {
+    display: block; /* Show the Home section by default */
+}
+
 
