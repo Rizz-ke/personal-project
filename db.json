@@ -5,7 +5,7 @@
         "product-name": "Gaming pad",
         "product-price": "$15",
         "category":"Electronic" ,
-        "description": "Take your gaming experience to the next level with the customised Top Noch gaming pad.",
+        "description": "Gaming Pad: Elevate your gaming experience. Ergonomic design, precise controls. Dominate every game, every time.",
         "image": "Gaming pad.jpeg"
       },
       {
@@ -13,7 +13,7 @@
         "product-name": "Apple Smart watch series 8",
         "product-price": "$399",
         "category": "Electronic",
-        "description": "",
+        "description": "The Apple Smartwatch Series 8: Cutting-edge design, advanced features. Your essential companion for fitness, productivity, and connectivity.",
         "image": "apple watch series 8.jpeg"
       },
       {
@@ -21,7 +21,7 @@
         "product-name": "Sony Extra Bass Portable bluetooth speaker",
         "product-price": "$58.00 ",
         "category": "Electronic",
-        "description": "",
+        "description": "Sony's Extra Bass Portable Bluetooth Speaker: Compact, powerful sound. Deep bass, clear audio. Ideal for any occasion.",
         "image": "Sony extra bass bt.jpg"
       },
       {
@@ -29,7 +29,7 @@
         "product-name": "Long sleeve Shirt",
         "product-price": "$25",
         "category": "Clothing",
-        "description": "",
+        "description": "Step into sophistication with our premium long sleeve shirt. Crafted for comfort and style, it's your go-to for any occasion.",
         "image": "longsleeveshirt.jpeg"
       },
       {
@@ -37,7 +37,7 @@
         "product-name": "Rebune Water dispenser",
         "product-price": "$60",
         "category": "Appliances",
-        "description": "",
+        "description": "The appliance holds 3.2L of cold water, 0.8L of hot water, cools at 2L/h (5-10°C), heats at 5L/h (85-95°C), with 90W (cabinet) or 100W (refrigerator) cooling power and 550W heating power.",
         "image": "Rebune-Water-Dispenser-RE-8-018_Water-Dispensers_31990_1.jpeg"
       },
       {
@@ -45,7 +45,7 @@
         "product-name": "Betalife Ultra Comfy Memory Foam Mattress",
         "product-price": "$100",
         "category": "Home Furniture",
-        "description": "",
+        "description": "These mattresses use a large section of memory foam as the main support layer for the mattress. A comfort layer is then added on top of the support layer. This can be a second, softer layer of memory foam, or a different type of comfort filling, such as: Any natural filling.",
         "image": "21861_betalife_ultra_comfort_memory_foam_mattress_-_king_single_2_.jpeg"
       },
       {
@@ -61,7 +61,7 @@
         "product-name": "Deliya Hair Blow Dryer",
         "product-price": "$150",
         "category": "Electronic",
-        "description": "",
+        "description": "Lightweight. very convenient, easy to carry and handle",
         "image": "Deliya  Hair Blow Dryer.jpg"
       },
       {
@@ -69,7 +69,7 @@
         "product-name": "25 Litres Microwave",
         "product-price": "$100",
         "category": "Electronic",
-        "description": "",
+        "description": "A great addition to any modern kitchen, the Ramtons microwave and grill is a mix of style and function. This microwave features 11 power levels, perfect for any busy kitchen. The speed defrost function on the microwave oven gives you the option to prepare frozen meat with ease.",
         "image": "25 litres microwave.jpg"
       },
       {
@@ -77,7 +77,7 @@
         "product-name": "Oster 800-Watt Power Blender",
         "product-price": "$90",
         "category": "Electronic",
-        "description": "",
+        "description": "The innovative Texture Select Settings of this Oster blender take the guesswork out of getting the perfect consistency from your blends.",
         "image": "DC_42622_Oster_2022_Innovation_PowerBlender_.jpeg"
       },
       {
@@ -85,15 +85,15 @@
         "product-name": "Huawei 512GB Micro SD Card",
         "product-price": "$25",
         "category": "Accessories",
-        "description": "",
+        "description": "Increase your storage with the Huawei 512GB SD card, don't complain anymore beacause of storage.",
         "image": "Huawei 512GB Micro SD Card.jpg"
       },
       {
         "id": "12",
         "product-name": "Huawei Wireless Mouse GT Specifications",
-        "product-price": "",
+        "product-price": "$20",
         "category": "Electronic",
-        "description": "$20",
+        "description": "Take your gaming level to the next level with the Huawei wireless mouse,smooth and fast way for exploring your pc",
         "image": "Huawei Wireless Mouse GT Specifications.jpg",
         "showing_id": "12"
       },
@@ -102,7 +102,7 @@
         "product-name": "Samsung Galaxy S23",
         "product-price": "$799",
         "category": "Accessories",
-        "description": "",
+        "description": "Share epic nightography selfies with the new Samsung Galaxy S23,Enjoy the new samsung features and increase your experience to the next level.",
         "image": "Samsung Galaxy S23 .jpeg"
       },
       {
