@@ -93,14 +93,14 @@
         "product-name": "Huawei Wireless Mouse GT Specifications",
         "product-price": "",
         "category": "Electronic",
-        "description": "",
+        "description": "$20",
         "image": "Huawei Wireless Mouse GT Specifications.jpg",
         "showing_id": "12"
       },
       {
         "id": "13",
         "product-name": "Samsung Galaxy S23",
-        "product-price": "",
+        "product-price": "$799",
         "category": "Accessories",
         "description": "",
         "image": "Samsung Galaxy S23 .jpeg"
@@ -108,7 +108,7 @@
       {
         "id": "14",
         "product-name": "Lenovo LP3 Pro Ear Buds",
-        "product-price": "",
+        "product-price": "$15",
         "category": "Accessories",
         "description": "",
         "image": "Lenovo-LP3-Wireless-Ear-Buds.jpg"
@@ -116,7 +116,7 @@
       {
         "id": "15",
         "product-name": "Baby Carrier",
-        "product-price": "",
+        "product-price": "$15",
         "category": "Baby Products",
         "description": "",
         "image": "Baby carrier.jpg"
