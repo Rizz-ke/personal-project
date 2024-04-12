@@ -1,128 +1,129 @@
 {
-    "Products": [
-      {
-        "id": "1",
-        "product-name": "Gaming pad",
-        "product-price": "$15",
-        "category":"Electronic" ,
-        "description": "Gaming Pad: Elevate your gaming experience. Ergonomic design, precise controls. Dominate every game, every time.",
-        "image": "images/Gaming pad.jpeg"
-      },
-      {
-        "id": "2",
-        "product-name": "Apple Smart watch series 8",
-        "product-price": "$399",
-        "category": "Electronic",
-        "description": "The Apple Smartwatch Series 8: Cutting-edge design, advanced features. Your essential companion for fitness, productivity, and connectivity.",
-        "image": "images/apple watch series 8.jpeg"
-      },
-      {
-        "id": "3",
-        "product-name": "Sony Extra Bass Portable bluetooth speaker",
-        "product-price": "$58.00 ",
-        "category": "Electronic",
-        "description": "Sony's Extra Bass Portable Bluetooth Speaker: Compact, powerful sound. Deep bass, clear audio. Ideal for any occasion.",
-        "image": "images/Sony extra bass bt.jpg"
-      },
-      {
-        "id": "4",
-        "product-name": "Long sleeve Shirt",
-        "product-price": "$25",
-        "category": "Clothing",
-        "description": "Step into sophistication with our premium long sleeve shirt. Crafted for comfort and style, it's your go-to for any occasion.",
-        "image": "images/longsleeveshirt.jpeg"
-      },
-      {
-        "id": "5",
-        "product-name": "Rebune Water dispenser",
-        "product-price": "$60",
-        "category": "Appliances",
-        "description": "The appliance holds 3.2L of cold water, 0.8L of hot water, cools at 2L/h (5-10°C), heats at 5L/h (85-95°C), with 90W (cabinet) or 100W (refrigerator) cooling power and 550W heating power.",
-        "image": "images/Rebune-Water-Dispenser-RE-8-018_Water-Dispensers_31990_1.jpeg"
-      },
-      {
-        "id": "6",
-        "product-name": "Betalife Ultra Comfy Memory Foam Mattress",
-        "product-price": "$100",
-        "category": "Home Furniture",
-        "description": "These mattresses use a large section of memory foam as the main support layer for the mattress. A comfort layer is then added on top of the support layer. This can be a second, softer layer of memory foam, or a different type of comfort filling, such as: Any natural filling.",
-        "image": "images/21861_betalife_ultra_comfort_memory_foam_mattress_-_king_single_2_.jpeg"
-      },
-      {
-        "id": "7",
-        "product-name": "Canon EOS mirrorless camera",
-        "product-price": "$200",
-        "category": "Electronic",
-        "description": "Take quality photos with the new canon eos,upgrade your photography skills with the new Canon Eos",
-        "image": "images/canon_eos_r7_mirrorless.jpg"
-      },
-      {
-        "id": "8",
-        "product-name": "Deliya Hair Blow Dryer",
-        "product-price": "$150",
-        "category": "Electronic",
-        "description": "Lightweight. very convenient, easy to carry and handle",
-        "image": "images/Deliya  Hair Blow Dryer.jpg"
-      },
-      {
-        "id": "9",
-        "product-name": "25 Litres Microwave",
-        "product-price": "$100",
-        "category": "Electronic",
-        "description": "A great addition to any modern kitchen, the Ramtons microwave and grill is a mix of style and function. This microwave features 11 power levels, perfect for any busy kitchen. The speed defrost function on the microwave oven gives you the option to prepare frozen meat with ease.",
-        "image": "images/25 litres microwave.jpg"
-      },
-      {
-        "id": "10",
-        "product-name": "Oster 800-Watt Power Blender",
-        "product-price": "$90",
-        "category": "Electronic",
-        "description": "The innovative Texture Select Settings of this Oster blender take the guesswork out of getting the perfect consistency from your blends.",
-        "image": "images/DC_42622_Oster_2022_Innovation_PowerBlender_.jpeg"
-      },
-      {
-        "id": "11",
-        "product-name": "Huawei 512GB Micro SD Card",
-        "product-price": "$25",
-        "category": "Accessories",
-        "description": "Increase your storage with the Huawei 512GB SD card, don't complain anymore beacause of storage.",
-        "image": "images/Huawei 512GB Micro SD Card.jpg"
-      },
-      {
-        "id": "12",
-        "product-name": "Huawei Wireless Mouse GT Specifications",
-        "product-price": "$20",
-        "category": "Electronic",
-        "description": "Take your gaming level to the next level with the Huawei wireless mouse,smooth and fast way for exploring your pc",
-        "image": "images/Huawei Wireless Mouse GT Specifications.jpg",
-        "showing_id": "12"
-      },
-      {
-        "id": "13",
-        "product-name": "Samsung Galaxy S23",
-        "product-price": "$799",
-        "category": "Accessories",
-        "description": "Share epic nightography selfies with the new Samsung Galaxy S23,Enjoy the new samsung features and increase your experience to the next level.",
-        "image": "images/Samsung Galaxy S23 .jpeg"
-      },
-      {
-        "id": "14",
-        "product-name": "Lenovo LP3 Pro Ear Buds",
-        "product-price": "$15",
-        "category": "Accessories",
-        "description": "increase your love for music with the quality Lenovo LP3 pro Ear buds.",
-        "image": "images/Lenovo-LP3-Wireless-Ear-Buds.jpg"
-      },
-      {
-        "id": "15",
-        "product-name": "Baby Carrier",
-        "product-price": "$15",
-        "category": "Baby Products",
-        "description": "Purchase the comfy and quality baby carrier for your baby,carry your baby in style",
-        "image": "images/Baby carrier.jpg"
-      },
+  "Products": [
+    {
+      "id": "1",
+      "product-name": "Gaming pad",
+      "product-price": "$15",
+      "category": "Electronic",
+      "description": "Gaming Pad: Elevate your gaming experience. Ergonomic design, precise controls. Dominate every game, every time.",
+      "image": "images/Gaming pad.jpeg"
+    },
+    {
+      "id": "2",
+      "product-name": "Apple Smart watch series 8",
+      "product-price": "$399",
+      "category": "Electronic",
+      "description": "The Apple Smartwatch Series 8: Cutting-edge design, advanced features. Your essential companion for fitness, productivity, and connectivity.",
+      "image": "images/apple watch series 8.jpeg"
+    },
+    {
+      "id": "3",
+      "product-name": "Sony Extra Bass Portable bluetooth speaker",
+      "product-price": "$58.00 ",
+      "category": "Electronic",
+      "description": "Sony's Extra Bass Portable Bluetooth Speaker: Compact, powerful sound. Deep bass, clear audio. Ideal for any occasion.",
+      "image": "images/Sony extra bass bt.jpg"
+    },
+    {
+      "id": "4",
+      "product-name": "Long sleeve Shirt",
+      "product-price": "$25",
+      "category": "Clothing",
+      "description": "Step into sophistication with our premium long sleeve shirt. Crafted for comfort and style, it's your go-to for any occasion.",
+      "image": "images/longsleeveshirt.jpeg"
+    },
+    {
+      "id": "5",
+      "product-name": "Rebune Water dispenser",
+      "product-price": "$60",
+      "category": "Appliances",
+      "description": "The appliance holds 3.2L of cold water, 0.8L of hot water, cools at 2L/h (5-10°C), heats at 5L/h (85-95°C), with 90W (cabinet) or 100W (refrigerator) cooling power and 550W heating power.",
+      "image": "images/Rebune-Water-Dispenser-RE-8-018_Water-Dispensers_31990_1.jpeg"
+    },
+    {
+      "id": "6",
+      "product-name": "Betalife Ultra Comfy Memory Foam Mattress",
+      "product-price": "$100",
+      "category": "Home Furniture",
+      "description": "These mattresses use a large section of memory foam as the main support layer for the mattress. A comfort layer is then added on top of the support layer. This can be a second, softer layer of memory foam, or a different type of comfort filling, such as: Any natural filling.",
+      "image": "images/21861_betalife_ultra_comfort_memory_foam_mattress_-_king_single_2_.jpeg"
+    },
+    {
+      "id": "7",
+      "product-name": "Canon EOS mirrorless camera",
+      "product-price": "$200",
+      "category": "Electronic",
+      "description": "Take quality photos with the new canon eos,upgrade your photography skills with the new Canon Eos",
+      "image": "images/canon_eos_r7_mirrorless.jpg"
+    },
+    {
+      "id": "8",
+      "product-name": "Deliya Hair Blow Dryer",
+      "product-price": "$150",
+      "category": "Electronic",
+      "description": "Lightweight. very convenient, easy to carry and handle",
+      "image": "images/Deliya  Hair Blow Dryer.jpg"
+    },
+    {
+      "id": "9",
+      "product-name": "25 Litres Microwave",
+      "product-price": "$100",
+      "category": "Electronic",
+      "description": "A great addition to any modern kitchen, the Ramtons microwave and grill is a mix of style and function. This microwave features 11 power levels, perfect for any busy kitchen. The speed defrost function on the microwave oven gives you the option to prepare frozen meat with ease.",
+      "image": "images/25 litres microwave.jpg"
+    },
+    {
+      "id": "10",
+      "product-name": "Oster 800-Watt Power Blender",
+      "product-price": "$90",
+      "category": "Electronic",
+      "description": "The innovative Texture Select Settings of this Oster blender take the guesswork out of getting the perfect consistency from your blends.",
+      "image": "images/DC_42622_Oster_2022_Innovation_PowerBlender_.jpeg"
+    },
+    {
+      "id": "11",
+      "product-name": "Huawei 512GB Micro SD Card",
+      "product-price": "$25",
+      "category": "Accessories",
+      "description": "Increase your storage with the Huawei 512GB SD card, don't complain anymore beacause of storage.",
+      "image": "images/Huawei 512GB Micro SD Card.jpg"
+    },
+    {
+      "id": "12",
+      "product-name": "Huawei Wireless Mouse GT Specifications",
+      "product-price": "$20",
+      "category": "Electronic",
+      "description": "Take your gaming level to the next level with the Huawei wireless mouse,smooth and fast way for exploring your pc",
+      "image": "images/Huawei Wireless Mouse GT Specifications.jpg",
+      "showing_id": "12"
+    },
+    {
+      "id": "13",
+      "product-name": "Samsung Galaxy S23",
+      "product-price": "$799",
+      "category": "Accessories",
+      "description": "Share epic nightography selfies with the new Samsung Galaxy S23,Enjoy the new samsung features and increase your experience to the next level.",
+      "image": "images/Samsung Galaxy S23 .jpeg"
+    },
+    {
+      "id": "14",
+      "product-name": "Lenovo LP3 Pro Ear Buds",
+      "product-price": "$15",
+      "category": "Accessories",
+      "description": "increase your love for music with the quality Lenovo LP3 pro Ear buds.",
+      "image": "images/Lenovo-LP3-Wireless-Ear-Buds.jpg"
+    },
+    {
+      "id": "15",
+      "product-name": "Baby Carrier",
+      "product-price": "$15",
+      "category": "Baby Products",
+      "description": "Purchase the comfy and quality baby carrier for your baby,carry your baby in style",
+      "image": "images/Baby carrier.jpg"
+    },
 
-      {"id": "16",
+    {
+      "id": "16",
       "product-name": "Ramtons Fridge 213 Litres",
       "product-price": "$25",
       "category": "Home Appliances",
@@ -130,21 +131,22 @@
       "image": "images/Ramtons-213-Liters-2-Door-Direct-Cool-Fridge-Titan-Silver-RF257_Refrigerators_24433_1.jpeg"
     },
 
-    {"id": "17",
-    "product-name": "Solar Light 200Watt Solar Outdoor",
-    "product-price": "$20",
-    "category": "Appliances",
-    "description": "The 200W solar panel efficiently converts sunlight into electricity for homes and businesses. Durable and easy to install, it offers sustainable energy, reducing reliance on traditional power sources.",
-    "image": "images/Solar Light 200 Watt Solar Outdoor.jpg"
-  },
+    {
+      "id": "17",
+      "product-name": "Solar Light 200Watt Solar Outdoor",
+      "product-price": "$20",
+      "category": "Appliances",
+      "description": "The 200W solar panel efficiently converts sunlight into electricity for homes and businesses. Durable and easy to install, it offers sustainable energy, reducing reliance on traditional power sources.",
+      "image": "images/Solar Light 200 Watt Solar Outdoor.jpg"
+    },
 
-  {"id": "18",
-  "product-name": "Nivea Creme",
-  "product-price": "$10",
-  "category": "Beauty and Cosmetics",
-  "description": "Nivea Creme is a versatile skincare product known for its rich, moisturizing formula. It provides deep hydration to the skin, leaving it soft and smooth. Suitable for all skin types, Nivea Creme is a classic and trusted choice for daily moisturization and care.",
-  "image": "images/Nivea cream.jpg"
+    {
+      "id": "18",
+      "product-name": "Nivea Creme",
+      "product-price": "$10",
+      "category": "Beauty and Cosmetics",
+      "description": "Nivea Creme is a versatile skincare product known for its rich, moisturizing formula. It provides deep hydration to the skin, leaving it soft and smooth. Suitable for all skin types, Nivea Creme is a classic and trusted choice for daily moisturization and care.",
+      "image": "images/Nivea cream.jpg"
+    }
+  ]
 }
-
-    ]
-  }
