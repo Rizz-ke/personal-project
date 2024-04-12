@@ -1,4 +1,4 @@
-# personal-project
+# Wonder Shop
 
 # Date, 2024/04/12
 
