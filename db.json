@@ -69,7 +69,7 @@
       "product-name": "25 Litres Microwave",
       "product-price": "$100",
       "category": "Electronic",
-      "description": "A great addition to any modern kitchen, the Ramtons microwave and grill is a mix of style and function. This microwave features 11 power levels, perfect for any busy kitchen. The speed defrost function on the microwave oven gives you the option to prepare frozen meat with ease.",
+      "description": "A great addition to any modern kitchen, the Ramtons microwave and grill is a mix of style and function. This microwave features 11 power levels, perfect for any busy kitchen.",
       "image": "images/25 litres microwave.jpg"
     },
     {
@@ -145,7 +145,7 @@
       "product-name": "Nivea Creme",
       "product-price": "$10",
       "category": "Beauty and Cosmetics",
-      "description": "Nivea Creme is a versatile skincare product known for its rich, moisturizing formula. It provides deep hydration to the skin, leaving it soft and smooth. Suitable for all skin types, Nivea Creme is a classic and trusted choice for daily moisturization and care.",
+      "description": "Nivea Creme is a versatile skincare product known for its rich, moisturizing formula. It provides deep hydration to the skin, leaving it soft and smooth. Suitable for all skin types.",
       "image": "images/Nivea cream.jpg"
     }
   ]
