@@ -6,7 +6,7 @@
         "product-price": "$15",
         "category":"Electronic" ,
         "description": "Gaming Pad: Elevate your gaming experience. Ergonomic design, precise controls. Dominate every game, every time.",
-        "image": "Gaming pad.jpeg"
+        "image": "images/Gaming pad.jpeg"
       },
       {
         "id": "2",
@@ -14,7 +14,7 @@
         "product-price": "$399",
         "category": "Electronic",
         "description": "The Apple Smartwatch Series 8: Cutting-edge design, advanced features. Your essential companion for fitness, productivity, and connectivity.",
-        "image": "apple watch series 8.jpeg"
+        "image": "images/apple watch series 8.jpeg"
       },
       {
         "id": "3",
@@ -22,7 +22,7 @@
         "product-price": "$58.00 ",
         "category": "Electronic",
         "description": "Sony's Extra Bass Portable Bluetooth Speaker: Compact, powerful sound. Deep bass, clear audio. Ideal for any occasion.",
-        "image": "Sony extra bass bt.jpg"
+        "image": "images/Sony extra bass bt.jpg"
       },
       {
         "id": "4",
@@ -30,7 +30,7 @@
         "product-price": "$25",
         "category": "Clothing",
         "description": "Step into sophistication with our premium long sleeve shirt. Crafted for comfort and style, it's your go-to for any occasion.",
-        "image": "longsleeveshirt.jpeg"
+        "image": "images/longsleeveshirt.jpeg"
       },
       {
         "id": "5",
@@ -38,7 +38,7 @@
         "product-price": "$60",
         "category": "Appliances",
         "description": "The appliance holds 3.2L of cold water, 0.8L of hot water, cools at 2L/h (5-10°C), heats at 5L/h (85-95°C), with 90W (cabinet) or 100W (refrigerator) cooling power and 550W heating power.",
-        "image": "Rebune-Water-Dispenser-RE-8-018_Water-Dispensers_31990_1.jpeg"
+        "image": "images/Rebune-Water-Dispenser-RE-8-018_Water-Dispensers_31990_1.jpeg"
       },
       {
         "id": "6",
@@ -46,7 +46,7 @@
         "product-price": "$100",
         "category": "Home Furniture",
         "description": "These mattresses use a large section of memory foam as the main support layer for the mattress. A comfort layer is then added on top of the support layer. This can be a second, softer layer of memory foam, or a different type of comfort filling, such as: Any natural filling.",
-        "image": "21861_betalife_ultra_comfort_memory_foam_mattress_-_king_single_2_.jpeg"
+        "image": "images/21861_betalife_ultra_comfort_memory_foam_mattress_-_king_single_2_.jpeg"
       },
       {
         "id": "7",
@@ -54,7 +54,7 @@
         "product-price": "$200",
         "category": "Electronic",
         "description": "Take quality photos with the new canon eos,upgrade your photography skills with the new Canon Eos",
-        "image": "canon_eos_r7_mirrorless.jpg"
+        "image": "images/canon_eos_r7_mirrorless.jpg"
       },
       {
         "id": "8",
@@ -62,7 +62,7 @@
         "product-price": "$150",
         "category": "Electronic",
         "description": "Lightweight. very convenient, easy to carry and handle",
-        "image": "Deliya  Hair Blow Dryer.jpg"
+        "image": "images/Deliya  Hair Blow Dryer.jpg"
       },
       {
         "id": "9",
@@ -70,7 +70,7 @@
         "product-price": "$100",
         "category": "Electronic",
         "description": "A great addition to any modern kitchen, the Ramtons microwave and grill is a mix of style and function. This microwave features 11 power levels, perfect for any busy kitchen. The speed defrost function on the microwave oven gives you the option to prepare frozen meat with ease.",
-        "image": "25 litres microwave.jpg"
+        "image": "images/25 litres microwave.jpg"
       },
       {
         "id": "10",
@@ -78,7 +78,7 @@
         "product-price": "$90",
         "category": "Electronic",
         "description": "The innovative Texture Select Settings of this Oster blender take the guesswork out of getting the perfect consistency from your blends.",
-        "image": "DC_42622_Oster_2022_Innovation_PowerBlender_.jpeg"
+        "image": "images/DC_42622_Oster_2022_Innovation_PowerBlender_.jpeg"
       },
       {
         "id": "11",
@@ -86,7 +86,7 @@
         "product-price": "$25",
         "category": "Accessories",
         "description": "Increase your storage with the Huawei 512GB SD card, don't complain anymore beacause of storage.",
-        "image": "Huawei 512GB Micro SD Card.jpg"
+        "image": "images/Huawei 512GB Micro SD Card.jpg"
       },
       {
         "id": "12",
@@ -94,7 +94,7 @@
         "product-price": "$20",
         "category": "Electronic",
         "description": "Take your gaming level to the next level with the Huawei wireless mouse,smooth and fast way for exploring your pc",
-        "image": "Huawei Wireless Mouse GT Specifications.jpg",
+        "image": "images/Huawei Wireless Mouse GT Specifications.jpg",
         "showing_id": "12"
       },
       {
@@ -103,7 +103,7 @@
         "product-price": "$799",
         "category": "Accessories",
         "description": "Share epic nightography selfies with the new Samsung Galaxy S23,Enjoy the new samsung features and increase your experience to the next level.",
-        "image": "Samsung Galaxy S23 .jpeg"
+        "image": "images/Samsung Galaxy S23 .jpeg"
       },
       {
         "id": "14",
@@ -111,7 +111,7 @@
         "product-price": "$15",
         "category": "Accessories",
         "description": "increase your love for music with the quality Lenovo LP3 pro Ear buds.",
-        "image": "Lenovo-LP3-Wireless-Ear-Buds.jpg"
+        "image": "images/Lenovo-LP3-Wireless-Ear-Buds.jpg"
       },
       {
         "id": "15",
@@ -119,16 +119,32 @@
         "product-price": "$15",
         "category": "Baby Products",
         "description": "Purchase the comfy and quality baby carrier for your baby,carry your baby in style",
-        "image": "Baby carrier.jpg"
+        "image": "images/Baby carrier.jpg"
       },
-      
-      {"id": "15",
-      "product-name": "Baby Carrier",
-      "product-price": "$15",
-      "category": "Baby Products",
-      "description": "Purchase the comfy and quality baby carrier for your baby,carry your baby in style",
-      "image": "Baby carrier.jpg"
-    }
+
+      {"id": "16",
+      "product-name": "Ramtons Fridge 213 Litres",
+      "product-price": "$25",
+      "category": "Home Appliances",
+      "description": "Ramtons fridges: Reliable, efficient appliances keeping food fresh and drinks cool. Sleek design, adjustable temperature, ample storage. Ideal for modern kitchens.",
+      "image": "images/Ramtons-213-Liters-2-Door-Direct-Cool-Fridge-Titan-Silver-RF257_Refrigerators_24433_1.jpeg"
+    },
+
+    {"id": "17",
+    "product-name": "Solar Light 200Watt Solar Outdoor",
+    "product-price": "$20",
+    "category": "Appliances",
+    "description": "The 200W solar panel efficiently converts sunlight into electricity for homes and businesses. Durable and easy to install, it offers sustainable energy, reducing reliance on traditional power sources.",
+    "image": "images/Solar Light 200 Watt Solar Outdoor.jpg"
+  },
+
+  {"id": "18",
+  "product-name": "Nivea Creme",
+  "product-price": "$10",
+  "category": "Beauty and Cosmetics",
+  "description": "Nivea Creme is a versatile skincare product known for its rich, moisturizing formula. It provides deep hydration to the skin, leaving it soft and smooth. Suitable for all skin types, Nivea Creme is a classic and trusted choice for daily moisturization and care.",
+  "image": "images/Nivea cream.jpg"
+}
 
     ]
   }
