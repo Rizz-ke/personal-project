@@ -32,3 +32,6 @@ HTML
 
 The content of this site is licensed under the MIT license
 Copyright (c) 2024 Rizz-ke
+
+# Website Online link
+[https://thunderous-mooncake-2633c1.netlify.app/]
